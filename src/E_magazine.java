@@ -64,9 +64,9 @@ public class E_magazine extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
         getContentPane().setLayout(new org.netbeans.lib.awtextra.AbsoluteLayout());
 
-        jLabel3.setFont(new java.awt.Font("Times New Roman", 2, 48)); // NOI18N
+        jLabel3.setFont(new java.awt.Font("Trebuchet MS", 1, 48)); // NOI18N
         jLabel3.setHorizontalAlignment(javax.swing.SwingConstants.CENTER);
-        jLabel3.setText("------E Magazine------");
+        jLabel3.setText("------ E Magazine -----");
         getContentPane().add(jLabel3, new org.netbeans.lib.awtextra.AbsoluteConstraints(290, 50, 519, 90));
 
         jButton4.setFont(new java.awt.Font("Times New Roman", 3, 24)); // NOI18N
